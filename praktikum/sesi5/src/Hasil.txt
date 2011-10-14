@@ -1,0 +1,25 @@
+=====================================
+ID : 001
+Penyewa : AdiPrayogo
+Judul : Panduan Lengkap memakai Adobe
+Jumlah : 5
+=====================================
+ID : 002
+Penyewa : Putri Indriyani
+Judul : Tutorial Windows Server 2003
+Jumlah : 5
+=====================================
+ID : 003
+Penyewa : Femmy Agustina
+Judul : Google Adsense
+Jumlah : 5
+=====================================
+ID : 004
+Penyewa : Andi Andrian
+Judul : Pemrograman Basis Data Lanjut MySQL
+Jumlah : 5
+=====================================
+ID : 005
+Penyewa : Putra Pratama
+Judul : Panduan Dasar Autocad 2005
+Jumlah : 5
